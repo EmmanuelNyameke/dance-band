@@ -1,0 +1,18 @@
+C:\Users\HELLO\Source\Repos\Dance Band\bin\Debug\net8.0-windows\Dance Band.exe
+C:\Users\HELLO\Source\Repos\Dance Band\bin\Debug\net8.0-windows\Dance Band.deps.json
+C:\Users\HELLO\Source\Repos\Dance Band\bin\Debug\net8.0-windows\Dance Band.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\Dance Band\bin\Debug\net8.0-windows\Dance Band.dll
+C:\Users\HELLO\Source\Repos\Dance Band\bin\Debug\net8.0-windows\Dance Band.pdb
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance_Band.frmBand.resources
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance_Band.Resources.resources
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.dll
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\refint\Dance Band.dll
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.pdb
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance Band.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\ref\Dance Band.dll
+C:\Users\HELLO\Source\Repos\Dance Band\obj\Debug\net8.0-windows\Dance_Band.frmDisplay.resources
